@@ -7,7 +7,7 @@ Travel support for a limited number of participants will be available.
 You can register for the hackathon [**here**](https://forms.gle/fVK8nsKYcWBu6HVe6).
 
 ## Useful links
-- [Hackathon Discord server](https://discord.gg/22mSc842Wb)
+- [Hackathon Discord server](https://discord.gg/dG5rKDuwE)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-knoxville-2023/issues)
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/project_template.md)
 - Location: tba
