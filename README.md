@@ -4,7 +4,7 @@ The hackathon will be held in Knoxville, TN, USA and online from November 17 to 
 
 Travel support for a limited number of participants will be available.
 
-You can register for the hackathon [**here**]{https://forms.gle/fVK8nsKYcWBu6HVe6}.
+You can register for the hackathon [**here**](https://forms.gle/fVK8nsKYcWBu6HVe6).
 
 ## Useful links
 - [Hackathon Discord server](https://discord.gg/22mSc842Wb)
