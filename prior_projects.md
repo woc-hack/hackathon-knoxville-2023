@@ -22,7 +22,7 @@
 - Blue Flamingo - Gender distribution among GitHub projects with and without a code of conduct ([Github repo](https://github.com/woc-hack/blue-flamingo))
 - 6 Degrees of Hackers - Social network of hackathon participants over time ([Github repo](https://github.com/woc-hack/6-degrees-of-hackers))
 - KJD - Studying the vulnerability duration across projects ([Github repo](https://github.com/woc-hack/kjd))
-- Indoss-contributors - Analyzing the influence of non-enterprise-affiliated contributors to enterprise-driven OSS projects ([Github repo](https://github.com/woc-hack/indoss-contributors))
+- Indoss-contributors - Contributor analysis in enterprise-driven OSS projects ([Github repo](https://github.com/woc-hack/indoss-contributors))
 
 ## Lero 2022 (October 7 to 8, 2022)
 
