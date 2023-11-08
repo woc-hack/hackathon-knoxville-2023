@@ -15,7 +15,13 @@ To register for the hackathon, please use the following link.
 - Location: [Min Kao Electrical Engineering and Computer Science Building, 1520 Middle Dr, Knoxville, TN 37996, USA](https://maps.app.goo.gl/TvFNNs8CaDxmqRbx8)
 
 ## Hackathon Schedule
-Will be announced soon!
+World of Code Tutorial
+Location: 	https://ut-ee.zoom.us/j/94814872450?pwd=eVplZkFFVTRpazB5VHdsbmdUYmxhdz09
+When: 	Monday, November 13, 2023 11:00 – 12:00
+
+Starts Nov 17 at about 5PM ends around noon on Nov 19
+
+More details will be announced soon!
 
 ## Hackathon Organizer Contacts
 * Audris Mockus (audris@utk.edu)
