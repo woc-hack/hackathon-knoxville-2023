@@ -8,7 +8,7 @@ To register for the hackathon, please use the following link.
 
 ## Useful links
 - [**Hackathon registration**](https://forms.gle/fVK8nsKYcWBu6HVe6)
-- [Hackathon Discord server](https://discord.gg/dG5rKDuwE)
+- [Hackathon Discord server]([https://discord.gg/AAWdJJ9X7)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-knoxville-2023/issues)
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/project_template.md)
 - [Submitted ideas](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/prior_projects.md)
