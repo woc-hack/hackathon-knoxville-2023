@@ -20,7 +20,7 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 
 | Date | Time | Location | Topic | Content |
 | --- | --- | --- | --- | --- |
-| November 13 | 11:00am - 12:00pm | [Zoom](https://ut-ee.zoom.us/j/94814872450?pwd=eVplZkFFVTRpazB5VHdsbmdUYmxhdz09) | Webinar | Tutorial <br/> Making sure that participants have access to WoC <br/> Invite participants to WoC GitHub |
+| November 13 | 11:00am - 12:00pm | [Zoom](https://ut-ee.zoom.us/j/94814872450?pwd=eVplZkFFVTRpazB5VHdsbmdUYmxhdz09), [Recording](https://drive.google.com/file/d/1vA1dlnoAf-2JMorIXVcmDpTl2Xe5GDRN/view?usp=sharing) | Webinar | Tutorial <br/> Making sure that participants have access to WoC <br/> Invite participants to WoC GitHub |
 | November 17 | 05:00pm | MK 435 (Zoom) | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics |
 | | 05:45pm | MK 435 (Zoom) | Idea pitches | Participants pitch ideas they submitted during registration or new ideas they come up with on the spot |
 | | 06:15pm | MK 435 (Zoom) | Break / Voting | Participants vote on their favorite ideas |
