@@ -26,7 +26,7 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 | | 06:15pm | MK 435 (Zoom) | Break / Voting | Participants vote on their favorite ideas |
 | | 06:45pm | MK 435 (Zoom) | Team formation | Most voted ideas get the chance to form teams |
 | | 07:30pm | tba | Dinner | Sharing project ideas and networking |
-| November 17 | 09:00am  | MK 435 | Breakfast | |
+| November 18 | 09:00am  | MK 435 | Breakfast | |
 | | 09:30am | MK 435 (Zoom) | Team presentation | Teams present themselves (name, members, ...), their idea, and their plans until the first checkpoint |
 | | 10:00am | Map | Working time | |
 | | 12:30pm | MK 435 | Lunch | |
@@ -35,7 +35,7 @@ All times are in Knoxville local time (Eastern Standard Time, EST)
 | | 04:00pm | MK 435 | Break | |
 | | 04:30pm | Map | Working time | |
 | | 06:30pm | MK 435 (Zoom) | Checkpoint | Teams report progress, obstacles, and plans until the final presentation |
-| November 18 | 09:00am  | MK 435 | Breakfast | |
+| November 19 | 09:00am  | MK 435 | Breakfast | |
 | | 09:30am | MK 435 (Zoom) | Working time | |
 | | 12:00pm | MK 435 (Zoom) | Final presentations and closing | Teams present what they have done, which obstacles they faced, and their future plans |
 | | 01:00pm | MK 435 | Lunch | |
