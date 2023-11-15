@@ -8,6 +8,7 @@ The hackathon will be held in Knoxville, TN, USA, and online from November 17 to
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/project_template.md)
 - [Submitted ideas](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/prior_projects.md)
 - Location: [Min Kao Electrical Engineering and Computer Science Building, 1520 Middle Dr, Knoxville, TN 37996, USA](https://maps.app.goo.gl/TvFNNs8CaDxmqRbx8)
+- [Hackathon Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)
 
 ## Hackathon Schedule
 
