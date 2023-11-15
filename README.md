@@ -1,8 +1,6 @@
 # World of Code hackathon 2023
 
-The hackathon will be held in Knoxville, TN, USA and online from November 17 to 19, 2023.
-
-Travel support for a limited number of participants will be available.
+The hackathon will be held in Knoxville, TN, USA, and online from November 17 to 19, 2023.
 
 ## Useful links
 - [Hackathon Discord server](https://discord.gg/AAWdJJ9X7)
@@ -38,7 +36,8 @@ On Saturday, November 18, at 3:30pm EST, the local [Tennessee Volunteers](https:
 | | 06:30pm | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Checkpoint | Teams report progress, obstacles, and plans until the final presentation |
 | November 19 | 09:00am | MK 435 | Breakfast | |
 | | 09:30am | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Roll-call | Intro for the day |
-| | 09:30am | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Working time | |
+| | 09:45am | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Working time | |
+| | 11:30pm | MK 435 | Break | |
 | | 12:00pm | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Final presentations and closing | Teams present what they have done, which obstacles they faced, and their future plans |
 | | 01:00pm | MK 435 | Lunch | |
 
