@@ -4,10 +4,7 @@ The hackathon will be held in Knoxville, TN, USA and online from November 17 to 
 
 Travel support for a limited number of participants will be available.
 
-To register for the hackathon, please use the following link.
-
 ## Useful links
-- [**Hackathon registration**](https://forms.gle/fVK8nsKYcWBu6HVe6)
 - [Hackathon Discord server](https://discord.gg/AAWdJJ9X7)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-knoxville-2023/issues)
 - [Project report template](https://github.com/woc-hack/hackathon-knoxville-2023/blob/main/project_template.md)
@@ -18,10 +15,12 @@ To register for the hackathon, please use the following link.
 
 All times are in Knoxville local time (Eastern Standard Time, EST)
 
+On Saturday, November 18, at 3:30pm EST, the local [Tennessee Volunteers](https://utsports.com/sports/football) football team has a home game against the [Georgie Bulldogs](https://georgiadogs.com/sports/football). For this evening, it might thus be difficult to find a place to have dinner, especially in a larger group. In addition, -you might also want to pre-order transportation back to your accommodation.
+
 | Date | Time | Location | Topic | Content |
 | --- | --- | --- | --- | --- |
 | November 13 | 11:00am - 12:00pm | [Zoom](https://ut-ee.zoom.us/j/94814872450?pwd=eVplZkFFVTRpazB5VHdsbmdUYmxhdz09), [Recording](https://drive.google.com/file/d/1vA1dlnoAf-2JMorIXVcmDpTl2Xe5GDRN/view?usp=sharing) | Webinar | Tutorial <br/> Making sure that participants have access to WoC <br/> Invite participants to WoC GitHub |
-| November 17 | 05:00pm | MK 435 (Zoom) | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics |
+| November 17 | 05:00pm | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics |
 | | 05:45pm | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Idea pitches | Participants pitch ideas they submitted during registration or new ideas they come up with on the spot |
 | | 06:15pm | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Break / Voting | Participants vote on their favorite ideas |
 | | 06:45pm | MK 435 ([Zoom](https://ut-ee.zoom.us/j/95491935806?pwd=Q2VZL2doSXVFRkdDbUhxNENUQ3JKUT09)) | Team formation | Most voted ideas get the chance to form teams |
