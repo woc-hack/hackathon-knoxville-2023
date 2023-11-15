@@ -15,7 +15,7 @@ Travel support for a limited number of participants will be available.
 
 All times are in Knoxville local time (Eastern Standard Time, EST)
 
-On Saturday, November 18, at 3:30pm EST, the local [Tennessee Volunteers](https://utsports.com/sports/football) football team has a home game against the [Georgie Bulldogs](https://georgiadogs.com/sports/football). For this evening, it might thus be difficult to find a place to have dinner, especially in a larger group. In addition, -you might also want to pre-order transportation back to your accommodation.
+On Saturday, November 18, at 3:30pm EST, the local [Tennessee Volunteers](https://utsports.com/sports/football) football team has a home game against the [Georgie Bulldogs](https://georgiadogs.com/sports/football). For this evening, it might thus be difficult to find a place to have dinner, especially in a larger group. In addition, you might also want to pre-order transportation back to your accommodation.
 
 | Date | Time | Location | Topic | Content |
 | --- | --- | --- | --- | --- |
