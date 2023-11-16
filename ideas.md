@@ -6,3 +6,6 @@
 - Using World of Code to identify scientific software repositories to assemble a corpus with the help of AI/ML LLM technology.
 - Possibly try to correlate README features to the number of GitHub stars
 - Analyze the "halflife" of code for languages over time (does code written in a particular language remain more stable over time than others?)
+- differentiating copy-based reuse based on their file path (package files, individual files, binaries, ...)
+- Matching license files with known licenses
+- Matching defined and used packages and build the maps of upstreamRepo-pkg-downstreamRepo
