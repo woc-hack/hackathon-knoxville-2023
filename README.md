@@ -24,7 +24,7 @@ On Saturday, November 18, at 3:30pm EST, the local [Tennessee Volunteers](https:
 | | 05:45pm | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Idea pitches | Participants pitch ideas they submitted during registration or new ideas they come up with on the spot |
 | | 06:15pm | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Break / Voting | Participants vote on their favorite ideas |
 | | 06:45pm | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Team formation | Most voted ideas get the chance to form teams |
-| | 08:30pm | [Emilia](https://maps.app.goo.gl/YoGTjKVpU4Dm4uPV9), 16 Market Square, Knoxville, TN 37902, United States | Dinner | Sharing project ideas and networking |
+| | 08:30pm | [Carrabba's Italian Grill](https://maps.app.goo.gl/owqcnLPyV4XVZkms8), 324 N Peters Rd, Knoxville, TN 37922, United States | Dinner | Sharing project ideas and networking |
 | November 18 | 09:00am | MK 435 | Breakfast | |
 | | 09:30am | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Roll-call | Intro for the day |
 | | 09:45am | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2023zoom)) | Team formation finalization | |
