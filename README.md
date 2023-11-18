@@ -31,11 +31,10 @@ On Saturday, November 18, at 3:30pm EST, the local [Tennessee Volunteers](https:
 | | 10:30am | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Team presentation | Teams present themselves (name, members, ...), their idea, and their plans until the first checkpoint |
 | | 11:00am | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2023zoom)) | Working time | |
 | | 12:30pm | MK 435 | Lunch | |
-| | 01:30pm | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Checkpoint 1 | Teams report progress, obstacles, and plans until the next checkpoint |
-| | 02:00pm | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2023zoom)) | Working time | |
-| | 04:00pm | MK 435 | Break | |
+| | 01:30pm | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2023zoom)) | Working time | |
+| | 03:30pm | MK 435 | Break | |
+| | 04:00pm | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Checkpoint | Teams report progress, obstacles, and plans until the final presentation |
 | | 04:30pm | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2023zoom)) | Working time | |
-| | 06:30pm | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Checkpoint 2 | Teams report progress, obstacles, and plans until the final presentation |
 | November 19 | 09:00am | MK 435 | Breakfast | |
 | | 09:30am | MK 435 ([Zoom](https://bit.ly/woc2023zoom)) | Roll-call | Intro for the day |
 | | 09:45am | MK 435, MK 434, MK 354, MK 235 ([Zoom](https://bit.ly/woc2023zoom)) | Working time | |
