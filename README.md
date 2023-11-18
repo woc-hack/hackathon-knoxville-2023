@@ -2,6 +2,13 @@
 
 The hackathon will be held in Knoxville, TN, USA, and online from November 17 to 19, 2023.
 
+
+## Projects
+- [code-heimer](https://github.com/woc-hack/code-heimer)
+- [project-to-map](https://github.com/woc-hack/project-to-map)
+- [lcs](https://github.com/woc-hack/lcs)
+
+
 ## Useful links
 - [Hackathon Discord server](https://bit.ly/woc2023discord)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-knoxville-2023/issues)
