@@ -30,3 +30,9 @@
 - MYSTerious - Identify female developers and their interests in terms of projects or programming languages ([Github repo](https://github.com/woc-hack/MYSTerious))
 - Dopamine - Effect of Hacktoberfest on attracting newcomers to OSS ([Github repo](https://github.com/woc-hack/dopamine))
 - Vulcan - Name-based gender identification ([Github repo](https://github.com/woc-hack/Vulcan))
+
+## Knoxville and online 2023 (November 17 to 19, 2023)
+
+- LCS - Project to license matching ([Github repo](https://github.com/woc-hack/lcs))
+- Code-heimer - Creating a corpus of corpus of open-source scientific software ([Github repo](https://github.com/woc-hack/code-heimer))
+- Project-to-map - Automatically mapping the organizational structure of open-source projects ([Github repo](https://github.com/woc-hack/project-to-map))
